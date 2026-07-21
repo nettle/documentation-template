@@ -3,7 +3,7 @@ name = "documentation-template"
 version = "0.1.0"
 description = "Documentation template with DOCX/PDF generation"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "python-docx>=1.1.0",
     "pyyaml>=6.0.2",
